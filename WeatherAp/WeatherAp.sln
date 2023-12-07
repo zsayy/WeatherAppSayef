@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherAp", "WeatherAp.csproj", "{691066F8-3EBA-44DF-ACB2-E15708A12B81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{F853B2D5-52FF-4A73-B851-F46DE89B3311}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\vivid-blurred-colorful-wallpaper-background_58702-3752.jpg = ..\..\..\..\vivid-blurred-colorful-wallpaper-background_58702-3752.jpg
+		..\..\..\..\white-clouds-blue-background_23-2148964575.jpg = ..\..\..\..\white-clouds-blue-background_23-2148964575.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Villes", "Villes", "{E4ADEAEF-C1F3-4BBC-967C-49E8F19156A8}"
+	ProjectSection(SolutionItems) = preProject
+		Ville.txt = Ville.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691066F8-3EBA-44DF-ACB2-E15708A12B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691066F8-3EBA-44DF-ACB2-E15708A12B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691066F8-3EBA-44DF-ACB2-E15708A12B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691066F8-3EBA-44DF-ACB2-E15708A12B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6834B654-F973-41D2-A5E6-0882CBA4977B}
+	EndGlobalSection
+EndGlobal
